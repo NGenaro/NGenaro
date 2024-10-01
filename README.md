@@ -1,4 +1,4 @@
-<table style="margin: 2px; width: calc(100% - 0px);">
+<table style="margin: 0px; width: calc(100% - 0px);">
     <tr>
         <td>
             <img src="https://github.com/NGenaro/IMAGENS/blob/main/capa-git-00.gif" alt="Nathalia Genaro" style="width: 900px; height: auto;"/>
