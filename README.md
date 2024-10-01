@@ -1,7 +1,7 @@
 <table style="margin: 2px; width: calc(100% - 4px);">
     <tr>
         <td>
-            <img src="https://github.com/NGenaro/IMAGENS/blob/main/capa-git-00.gif" alt="Nathalia Genaro" style="width: 100%; height: auto;"/>
+            <img src="https://github.com/NGenaro/IMAGENS/blob/main/capa-git-00.gif" alt="Nathalia Genaro" style="width: 800px; height: auto;"/>
         </td>
     </tr>
 </table>
